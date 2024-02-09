@@ -10,6 +10,7 @@ namespace Projeto_pessoas
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("oi gorge!");
         }
     }
 }
